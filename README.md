@@ -1,6 +1,6 @@
 # Conditioning Matters: Training Diffusion Policies is Faster Than You Think
 
-[Paper](https://arxiv.org/abs/2505.11123) | [Checkpoints]()
+[Paper](https://arxiv.org/abs/2505.11123) | [Checkpoints](https://1drv.ms/u/c/ba682474b24f6989/EdyFZAAU47BPtZohTYDMHfwBeWB51Z8wSupl6z-iqfqBuw?e=kjBpzM)
 
 Official implementation of the paper "Conditioning Matters: Training Diffusion Policies is Faster Than You Think". We provide a PyTorch implementation of the proposed method for training diffusion policies on the LIBERO benchmark.
 
